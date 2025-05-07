@@ -1,0 +1,4 @@
+__pycache__
+.pytest_cache
+blast_results_old
+.DS_Store
